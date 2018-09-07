@@ -225,11 +225,11 @@ body {
 .buy-title {
 	font-weight: bold;
 	font-size: 0.30rem;
-	padding: 0.1rem;
+	padding: 0.1rem 0;
 }
 .buy-sub-title {
 	font-size: 0.20rem;
-	padding: 0.1rem;
+	padding: 0.1rem 0;
 	padding-top: 0;
 	color: #999;
 }
@@ -308,7 +308,7 @@ body {
 	background-size: contain !important;
 }
 .active .icon-order {
-	background: url("../icon/dingdan1.png") no-repeat 100% center !important;
+	background: url("../icon/dingdan1.buy-title.png") no-repeat 100% center !important;
 	background-size: contain !important;
 }
 .active .icon-my {
